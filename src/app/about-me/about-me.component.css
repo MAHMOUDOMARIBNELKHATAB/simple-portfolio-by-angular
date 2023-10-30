@@ -1,0 +1,32 @@
+.about-me{
+    display: flex;
+    align-items: flex-start ;
+    justify-content: space-between;
+    padding: 10%;
+}
+.about-me h2{
+width: 60%;
+font-size: 50px;
+text-align: center;
+text-transform: capitalize;
+text-shadow: 4px 9px 10px #c8c8c8;
+color: #3d3d3d;
+
+}
+.content p {
+font-size: 18px;
+width: 80%;
+margin-bottom: 50px;
+text-transform: capitalize;
+
+}
+
+a {
+    padding: 12px 20px;
+    outline: none;
+    background-color: #3d3d3d;
+    border-radius: 8px;
+    color: #fff;
+    text-transform: capitalize;
+    text-decoration: none;
+}

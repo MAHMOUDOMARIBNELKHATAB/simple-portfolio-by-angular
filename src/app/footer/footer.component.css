@@ -1,0 +1,58 @@
+.foater {
+
+    padding: 70px;
+    background-color: #15120d;
+
+}
+
+.container {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contact {
+    width: 30%;
+
+}
+
+.contact h3 {
+    color: #bab9b7;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+.contact h4 {
+    color: #bab9b7;
+    font-size: 18px;
+}
+
+.btn {
+    width: 30%;
+}
+
+button {
+    padding: 10px 30px;
+    border: 2px solid #bab9b7;
+    background: transparent;
+    color: #bab9b7;
+}
+
+.social {
+    width: 30%;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.social p {
+    text-align: right;
+    color: #bab9b7;
+    margin-top: 60px;
+}

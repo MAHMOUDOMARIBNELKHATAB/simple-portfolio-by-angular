@@ -1,0 +1,37 @@
+.hero{
+    background: url(../../../assites/imgs/bk.jpg);
+    height: 100vh;
+display: flex;
+align-items: center;
+justify-content: start;
+padding-left: 150px;
+
+}
+.header {
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.header h1{
+    color: #fff;
+    margin-bottom: 20px;
+
+}
+.header h3{
+    color: #fff;
+    margin-bottom: 40px;
+    font-size: 40px;
+text-align: center;
+}
+
+button{
+    padding: 10px 15px;
+    text-transform: uppercase;
+    background: transparent;
+    color: #fff;
+    outline: none;
+    border: 2px solid #fff;
+
+}

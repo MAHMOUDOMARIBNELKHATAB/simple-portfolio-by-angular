@@ -1,0 +1,47 @@
+.card-port{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    padding-top: 50px;
+    margin: auto;
+
+}
+
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    padding-left: 40px;
+    width: 100%;
+    
+    
+
+}
+
+.one-card{
+    background-color: #959188;
+width: 30%;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-bottom: 20px;
+height: 200px;
+
+
+}
+.bk{
+    background-color: #404040;
+
+}
+h3{
+    width: 60%;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    border-bottom: 2px solid #f7f7f7;
+    padding-bottom: 30px;
+}
